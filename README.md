@@ -25,9 +25,9 @@ Clone the repo, install NodeJS, and:
 
 Your goal is to complete the four tasks below.
 
-- Clone (please don't fork) this repository
+- Clone (please don't fork) this repository and push it to your personal account
 - Create a PR containing the solution for the tasks below
-- Invite `@rafagrowinco` as a collaborator
+- Ping `@rafagrowinco` in the PR
 
 ### Guidelines
 
